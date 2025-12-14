@@ -1,4 +1,4 @@
-NLP-Projects
+# NLP-Projects
 
 Description:
 This repository contains a collection of small to medium-scale Natural Language Processing (NLP) projects. Each project focuses on a specific NLP task, such as sentiment analysis, text preprocessing, tokenization, and text classification for English and Arabic datasets. The projects are organized to demonstrate end-to-end pipelines, from raw data cleaning to model training and evaluation.
@@ -11,7 +11,7 @@ Highlights:
 
 - Machine Learning Models: Implementation of classic ML models (Logistic Regression, TF-IDF, CountVectorizer) for text classification tasks.
 
-= Modular Project Structure: Each NLP project is self-contained, making it easy to explore, run, and extend.
+- Modular Project Structure: Each NLP project is self-contained, making it easy to explore, run, and extend.
 
 
 
